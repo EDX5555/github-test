@@ -1,0 +1,5 @@
+# Ignore File in root "compiled output"
+/compiledOUTPUT.txt
+
+# Ignore folder data in root
+/DATA 2/Edu
